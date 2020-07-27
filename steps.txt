@@ -1,0 +1,4 @@
+1. zisti či beží postgres služba
+2. ak nebeží spusť postgres, ak beží -
+3. zisti, či beží Clubspire, ak nebeží spusť, ak beží -
+4. zisti, či beží WC, ak nebeží check CS deploy and run, else fin
